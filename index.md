@@ -39,3 +39,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 [MyPicture](https://github.com/Wang-Ape/Wang-Ape.github.io/blob/master/2022-03-07-13-03-04_0.png)
 
 ！[mypic](https://user-images.githubusercontent.com/54843963/165467246-d417a215-a200-4ea4-83f3-3a0d3a43973d.png)
+
+![](https://user-images.githubusercontent.com/54843963/165467246-d417a215-a200-4ea4-83f3-3a0d3a43973d.png)
